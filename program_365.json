@@ -1,0 +1,172 @@
+[
+  {
+    "dayNumber": 1,
+    "weekNumber": 1,
+    "monthNumber": 1,
+    "isRecovery": false,
+    "phase": "فاز ۱: پایه‌ریزی، تکنیک، ثبات کور و انعطاف‌پذیری",
+    "title": "روز ۱: تقویت عضلات پشت، بارفیکس و کشش طولی ستون فقرات",
+    "focus": "افزایش قدرت عضلات پشتی (Latissimus)، باز کردن فاصله مهره‌ها و تقویت کمربند شانه",
+    "exercises": [
+      {
+        "id": "d1_e1",
+        "name": "پیاده‌روی ریتمیک شیب‌دار روی تردمیل",
+        "nameEn": "Incline Treadmill Brisk Walk",
+        "type": "timer",
+        "durationSeconds": 300,
+        "sets": 1,
+        "restSeconds": 60,
+        "equipment": "تردمیل",
+        "targetMuscles": ["سیستم قلبی-عروقی", "عضلات ساق و ران"],
+        "description": "تردمیل را روی سرعت ۵ کیلومتر و شیب ۳٪ تنظیم کرده و با گام‌های کشیده راه بروید.",
+        "safety": "به دسته‌ها آویزان نشوید، نگاه رو به جلو باشد.",
+        "difficulty": "مقدماتی",
+        "demonstrationPlaceholder": "assets/exercises/treadmill_walk.gif"
+      },
+      {
+        "id": "d1_e2",
+        "name": "آویزان شدن ایزومتریک از بارفیکس (کاهش فشار ستون فقرات)",
+        "nameEn": "Dead Hang Spine Decompression",
+        "type": "timer",
+        "durationSeconds": 30,
+        "sets": 3,
+        "restSeconds": 45,
+        "equipment": "بارفیکس",
+        "targetMuscles": ["ستون فقرات", "ساعد", "شانه‌ها"],
+        "description": "با هر دو دست میله بارفیکس را بگیرید و بگذارید جاذبه ستون فقرات را کشش دهد.",
+        "safety": "در صورت درد غیرطبیعی پاها را روی زمین بگذارید.",
+        "difficulty": "مقدماتی",
+        "demonstrationPlaceholder": "assets/exercises/dead_hang.gif"
+      },
+      {
+        "id": "d1_e3",
+        "name": "بارفیکس با کمک کش ورزشی",
+        "nameEn": "Band-Assisted Pull-up",
+        "type": "repetition",
+        "sets": 3,
+        "reps": 6,
+        "restSeconds": 60,
+        "equipment": "بارفیکس",
+        "targetMuscles": ["عضلات زیربغل", "جلوبازو"],
+        "description": "کش را به میله مهار کرده و با کمک آن چانه را تا بالای میله بالا ببرید.",
+        "safety": "از تاب خوردن و ضربه زدن پرهیز کنید.",
+        "difficulty": "متوسط",
+        "demonstrationPlaceholder": "assets/exercises/pullup_assisted.gif"
+      },
+      {
+        "id": "d1_e4",
+        "name": "فیس‌پول با کش ورزشی (اصلاح قوز پشتی)",
+        "nameEn": "Resistance Band Face Pull",
+        "type": "repetition",
+        "sets": 3,
+        "reps": 12,
+        "restSeconds": 45,
+        "equipment": "کش ورزشی",
+        "targetMuscles": ["پشت شانه", "رومبوئید"],
+        "description": "کش را روبروی صورت بکشید تا کتف‌ها به هم فشرده شوند.",
+        "safety": "سینه را فراخ نگه دارید.",
+        "difficulty": "مقدماتی",
+        "demonstrationPlaceholder": "assets/exercises/band_face_pull.gif"
+      }
+    ],
+    "meals": [
+      {
+        "id": "d1_m1",
+        "category": "Breakfast",
+        "categoryFa": "صبحانه مقوی رشد",
+        "name": "املت تخم‌مرغ با پنیر کم‌نمک، نان سنگک و شیر گرم با عسل",
+        "imagePlaceholder": "assets/foods/breakfast_eggs.jpg",
+        "calories": 480,
+        "proteinGrams": 28,
+        "calciumMg": 350,
+        "ingredients": ["۲ تخم مرغ", "۳۰ گرم پنیر", "نان سنگک", "۱ لیوان شیر گرم با عسل"],
+        "preparationSteps": ["پخت تخم مرغ با روغن زیتون", "گرم کردن شیر با عسل"],
+        "nutritionTips": "کلسیم و پروتئین بالا برای رشد استخوانی",
+        "cookingTimeMinutes": 10
+      },
+      {
+        "id": "d1_m2",
+        "category": "Snack 1",
+        "categoryFa": "میان‌وعده صبح",
+        "name": "مشت دانه‌ها و مغزها (بادام، پسته، گردو) + سیب",
+        "imagePlaceholder": "assets/foods/snack_nuts.jpg",
+        "calories": 240,
+        "proteinGrams": 8,
+        "calciumMg": 90,
+        "ingredients": ["۱۰ عدد بادام", "۵ عدد گردو", "۱ سیب"],
+        "preparationSteps": ["مصرف مستقیم"],
+        "nutritionTips": "امگا ۳ و منیزیم عالی برای مغز و رشد",
+        "cookingTimeMinutes": 0
+      },
+      {
+        "id": "d1_m3",
+        "category": "Lunch",
+        "categoryFa": "ناهار کامل انرژی‌بخش",
+        "name": "خوراک فیله مرغ گریل با کته برنج و ماست یونانی",
+        "imagePlaceholder": "assets/foods/lunch_chicken.jpg",
+        "calories": 680,
+        "proteinGrams": 46,
+        "calciumMg": 310,
+        "ingredients": ["۱۵۰ گرم سینه مرغ", "کته برنج ایرانی", "ماست یونانی", "اسفناج تازه"],
+        "preparationSteps": ["گریل کردن مرغ", "پخت کته"],
+        "nutritionTips": "روی (Zinc) و پروتئین برای ساخت بافت‌های غضروفی",
+        "cookingTimeMinutes": 30
+      },
+      {
+        "id": "d1_m4",
+        "category": "Snack 2",
+        "categoryFa": "میان‌وعده عصرگاهی",
+        "name": "اسموتی موز، کره بادام‌زمینی، جو دوسر و شیر",
+        "imagePlaceholder": "assets/foods/snack_smoothie.jpg",
+        "calories": 320,
+        "proteinGrams": 14,
+        "calciumMg": 220,
+        "ingredients": ["۱ موز", "۱ لیوان شیر", "۱ قاشق کره بادام زمینی", "جو پرک"],
+        "preparationSteps": ["مخلوط کردن در بلندر"],
+        "nutritionTips": "پر کردن ذخایر گلیکوژن قبل از تمرین",
+        "cookingTimeMinutes": 5
+      },
+      {
+        "id": "d1_m5",
+        "category": "Post Workout",
+        "categoryFa": "تغذیه بلافاصله بعد از تمرین",
+        "name": "شیرکاکائو کم‌شیرین با خرما",
+        "imagePlaceholder": "assets/foods/post_workout.jpg",
+        "calories": 260,
+        "proteinGrams": 12,
+        "calciumMg": 300,
+        "ingredients": ["۱ لیوان شیر کم‌چرب با کاکائو خالص", "۲ عدد خرما"],
+        "preparationSteps": ["مصرف در پنجره طلایی ریکاوری"],
+        "nutritionTips": "نسبت ۳ به ۱ کربوهیدرات به پروتئین برای بازسازی عضله",
+        "cookingTimeMinutes": 0
+      },
+      {
+        "id": "d1_m6",
+        "category": "Dinner",
+        "categoryFa": "شام سبک و خواب‌آور",
+        "name": "ماهی قزل‌آلا کبابی با سیب‌زمینی تنوری و کلم بروکلی",
+        "imagePlaceholder": "assets/foods/dinner_fish.jpg",
+        "calories": 520,
+        "proteinGrams": 36,
+        "calciumMg": 240,
+        "ingredients": ["۱۴۰ گرم فیله قزل‌آلا", "۱ سیب‌زمینی تنوری", "بروکلی بخارپز"],
+        "preparationSteps": ["پخت ماهی در فر به مدت ۲۰ دقیقه"],
+        "nutritionTips": "ویتامین D طبیعی برای جذب کلسیم و تریپتوفان برای خواب عمیق",
+        "cookingTimeMinutes": 25
+      }
+    ],
+    "sleep": {
+      "bedtime": "23:00",
+      "wakeTime": "07:30",
+      "durationHours": 8.5,
+      "durationFormatted": "8 ساعت و 30 دقیقه",
+      "windDownTime": "22:15",
+      "tips": [
+        "خاموش کردن گوشی از ساعت ۲۲:۰۰",
+        "تاریکی و سکوت مطلق اتاق خواب",
+        "ترشح هورمون رشد در فاز امواج آهسته خواب عمیق"
+      ]
+    },
+    "growthTips": "حفظ وضعیت بدنی صاف حین نشستن و نوشیدن حداقل ۲ لیتر آب روزانه به هیدراتاسیون دیسک‌های ستون فقرات کمک می‌کند."
+  }
+]

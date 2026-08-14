@@ -1,0 +1,6 @@
+{
+  "name": "برنامه سلامت و رشد ۳۶۵ روزه",
+  "description": "سامانه جامع و حرفه‌ای مدیریت روزانه تمرین، تغذیه و خواب ۳۶۵ روزه برای نوجوانان با تایمرهای تعاملی و پروژه کامل پایتون",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
